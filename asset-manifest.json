@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Wateroat-app/static/css/main.3e034fa7.chunk.css",
+    "main.js": "/Wateroat-app/static/js/main.6b7d11f4.chunk.js",
+    "main.js.map": "/Wateroat-app/static/js/main.6b7d11f4.chunk.js.map",
+    "runtime-main.js": "/Wateroat-app/static/js/runtime-main.1e0d5b22.js",
+    "runtime-main.js.map": "/Wateroat-app/static/js/runtime-main.1e0d5b22.js.map",
+    "static/css/2.c9fc9f63.chunk.css": "/Wateroat-app/static/css/2.c9fc9f63.chunk.css",
+    "static/js/2.a2020546.chunk.js": "/Wateroat-app/static/js/2.a2020546.chunk.js",
+    "static/js/2.a2020546.chunk.js.map": "/Wateroat-app/static/js/2.a2020546.chunk.js.map",
+    "static/js/3.c99f037f.chunk.js": "/Wateroat-app/static/js/3.c99f037f.chunk.js",
+    "static/js/3.c99f037f.chunk.js.map": "/Wateroat-app/static/js/3.c99f037f.chunk.js.map",
+    "index.html": "/Wateroat-app/index.html",
+    "static/css/2.c9fc9f63.chunk.css.map": "/Wateroat-app/static/css/2.c9fc9f63.chunk.css.map",
+    "static/css/main.3e034fa7.chunk.css.map": "/Wateroat-app/static/css/main.3e034fa7.chunk.css.map",
+    "static/js/2.a2020546.chunk.js.LICENSE.txt": "/Wateroat-app/static/js/2.a2020546.chunk.js.LICENSE.txt",
+    "static/media/book.css": "/Wateroat-app/static/media/boat4.76ae3201.jpg",
+    "static/media/slick-theme.css": "/Wateroat-app/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e0d5b22.js",
+    "static/css/2.c9fc9f63.chunk.css",
+    "static/js/2.a2020546.chunk.js",
+    "static/css/main.3e034fa7.chunk.css",
+    "static/js/main.6b7d11f4.chunk.js"
+  ]
+}
