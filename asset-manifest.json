@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Wateroat-app/static/css/main.3e034fa7.chunk.css",
-    "main.js": "/Wateroat-app/static/js/main.6b7d11f4.chunk.js",
-    "main.js.map": "/Wateroat-app/static/js/main.6b7d11f4.chunk.js.map",
-    "runtime-main.js": "/Wateroat-app/static/js/runtime-main.1e0d5b22.js",
-    "runtime-main.js.map": "/Wateroat-app/static/js/runtime-main.1e0d5b22.js.map",
-    "static/css/2.c9fc9f63.chunk.css": "/Wateroat-app/static/css/2.c9fc9f63.chunk.css",
-    "static/js/2.a2020546.chunk.js": "/Wateroat-app/static/js/2.a2020546.chunk.js",
-    "static/js/2.a2020546.chunk.js.map": "/Wateroat-app/static/js/2.a2020546.chunk.js.map",
-    "static/js/3.c99f037f.chunk.js": "/Wateroat-app/static/js/3.c99f037f.chunk.js",
-    "static/js/3.c99f037f.chunk.js.map": "/Wateroat-app/static/js/3.c99f037f.chunk.js.map",
-    "index.html": "/Wateroat-app/index.html",
-    "static/css/2.c9fc9f63.chunk.css.map": "/Wateroat-app/static/css/2.c9fc9f63.chunk.css.map",
-    "static/css/main.3e034fa7.chunk.css.map": "/Wateroat-app/static/css/main.3e034fa7.chunk.css.map",
-    "static/js/2.a2020546.chunk.js.LICENSE.txt": "/Wateroat-app/static/js/2.a2020546.chunk.js.LICENSE.txt",
-    "static/media/book.css": "/Wateroat-app/static/media/boat4.76ae3201.jpg",
-    "static/media/slick-theme.css": "/Wateroat-app/static/media/slick.c94f7671.ttf"
+    "main.css": "/Waterboat-app/static/css/main.7b71f662.chunk.css",
+    "main.js": "/Waterboat-app/static/js/main.6b7d11f4.chunk.js",
+    "main.js.map": "/Waterboat-app/static/js/main.6b7d11f4.chunk.js.map",
+    "runtime-main.js": "/Waterboat-app/static/js/runtime-main.4e00b9e4.js",
+    "runtime-main.js.map": "/Waterboat-app/static/js/runtime-main.4e00b9e4.js.map",
+    "static/css/2.2c40cdf9.chunk.css": "/Waterboat-app/static/css/2.2c40cdf9.chunk.css",
+    "static/js/2.a2020546.chunk.js": "/Waterboat-app/static/js/2.a2020546.chunk.js",
+    "static/js/2.a2020546.chunk.js.map": "/Waterboat-app/static/js/2.a2020546.chunk.js.map",
+    "static/js/3.c99f037f.chunk.js": "/Waterboat-app/static/js/3.c99f037f.chunk.js",
+    "static/js/3.c99f037f.chunk.js.map": "/Waterboat-app/static/js/3.c99f037f.chunk.js.map",
+    "index.html": "/Waterboat-app/index.html",
+    "static/css/2.2c40cdf9.chunk.css.map": "/Waterboat-app/static/css/2.2c40cdf9.chunk.css.map",
+    "static/css/main.7b71f662.chunk.css.map": "/Waterboat-app/static/css/main.7b71f662.chunk.css.map",
+    "static/js/2.a2020546.chunk.js.LICENSE.txt": "/Waterboat-app/static/js/2.a2020546.chunk.js.LICENSE.txt",
+    "static/media/book.css": "/Waterboat-app/static/media/boat4.76ae3201.jpg",
+    "static/media/slick-theme.css": "/Waterboat-app/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.1e0d5b22.js",
-    "static/css/2.c9fc9f63.chunk.css",
+    "static/js/runtime-main.4e00b9e4.js",
+    "static/css/2.2c40cdf9.chunk.css",
     "static/js/2.a2020546.chunk.js",
-    "static/css/main.3e034fa7.chunk.css",
+    "static/css/main.7b71f662.chunk.css",
     "static/js/main.6b7d11f4.chunk.js"
   ]
 }
